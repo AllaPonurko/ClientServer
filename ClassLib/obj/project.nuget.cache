@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "avZzAXrrjjYpPIKa77+o/QzNcyULnV3CzePm7z4OhKs8UjhpxRBy13h2zC70rA0ZP/krpZQxILDRPGuJ/lI1vw==",
+  "success": true,
+  "projectFilePath": "D:\\Проекты Visual Studio\\WinFormsClientServer\\ClassLib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.core\\3.5.21022.801\\system.core.3.5.21022.801.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"System.Core 3.5.21022.801\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "System.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
